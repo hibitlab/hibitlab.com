@@ -91,18 +91,7 @@ section {
   padding-bottom: 32px;
   background: linear-gradient(120deg, #fff 80%, #eaf6fb 100%);
 }
-section:hover {
-  box-shadow: 0 12px 32px rgba(44,62,80,0.12);
-  transform: translateY(-4px) scale(1.01);
-}
-.about h2, .services h2, .products h2, .contact h2, .industries h2, .faq h2 {
-  color: #0a3d62;
-  font-size: 2rem;
-  margin-bottom: 18px;
-}
-.stats {
-  display: flex;
-  gap: 40px;
+.hero {
   margin-top: 24px;
 }
 .stats div {
